@@ -103,7 +103,7 @@ var other = function() {
     }).then(function(res) {
         return botui.message.bot({
             delay: 1500,
-            content: "所以就有了i（我是）kirito（桐人）！"
+            content: "所以就有了我 is(是)kirito（桐人）！"
         })
     }).then(function(res) {
         return botui.message.bot({
