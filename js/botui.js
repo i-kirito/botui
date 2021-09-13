@@ -65,7 +65,7 @@ var other = function() {
     }).then(function() {
         return botui.message.bot({
             delay: 1500,
-            content: "我是怀着无限梦想的大一后生仔"
+            content: "2020年我是怀着无限梦想的大一后生仔"
         })
     }).then(function() {
         return botui.message.bot({
